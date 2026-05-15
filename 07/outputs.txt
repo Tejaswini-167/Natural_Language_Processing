@@ -1,0 +1,13 @@
+Tokens: ['Natural', 'Language', 'Processing', 'enables', 'computers', 'to', 'understand', 'human', 'language', '.']
+
+PoS Tags: [('Natural', 'JJ'), ('Language', 'NNP'), ('Processing', 'NNP'), ('enables', 'VBZ'), ('computers', 'NNS'), ('to', 'TO'), ('understand', 'VB'), ('human', 'JJ'), ('language', 'NN'), ('.', '.')]
+
+PoS Tag Distribution: Counter({'JJ': 2, 'NNP': 2, 'VBZ': 1, 'NNS': 1, 'TO': 1, 'VB': 1, 'NN': 1, '.': 1})
+
+Sentence 1 Features: Counter({'DT': 1, 'NN': 1, 'VBD': 1, 'JJ': 1, 'CC': 1, 'VBG': 1})
+
+Sentence 2 Features: Counter({'DT': 1, 'NN': 1, 'VBD': 1, 'JJ': 1, 'CC': 1, 'VB': 1})
+
+Test Sentence: The experience was wonderful
+
+Prediction: Positive

@@ -1,0 +1,3 @@
+Original Sentence: She is a very talented student.
+Substitute Sentence: She is a very intelligent student.
+Similarity: 0.8478063344955444

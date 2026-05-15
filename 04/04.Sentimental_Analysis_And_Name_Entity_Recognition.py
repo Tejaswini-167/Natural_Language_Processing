@@ -1,5 +1,5 @@
 # ============================================================
-# Lab Sheet 3: Sentiment Analysis and Named Entity Recognition
+# Lab Sheet 4: Sentiment Analysis and Named Entity Recognition
 # ============================================================
 
 # Aim:

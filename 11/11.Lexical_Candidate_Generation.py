@@ -1,5 +1,5 @@
 # ============================================================
-# Lab Sheet 10: Lexical Candidate Generation and Ranking
+# Lab Sheet 11: Lexical Candidate Generation and Ranking
 # Using Pre-trained Language Models
 # ============================================================
 

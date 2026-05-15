@@ -1,0 +1,3 @@
+Input: natural language processing is simple                                                      | 0.00/293 [00:00<?, ?B/s]
+Translated: प्राकृतिक भाषा प्रक्रिया सरल है
+BLEU Score: 100.00000000000004

@@ -1,5 +1,5 @@
 # ============================================================
-# Lab Sheet 6: Extracting Part-of-Speech (PoS) Features
+# Lab Sheet 7: Extracting Part-of-Speech (PoS) Features
 # ============================================================
 
 # Aim:

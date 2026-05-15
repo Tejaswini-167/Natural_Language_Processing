@@ -1,5 +1,5 @@
 # ============================================================
-# Lab Sheet 7: Building a Part-of-Speech (PoS) Tagger
+# Lab Sheet 8: Building a Part-of-Speech (PoS) Tagger
 # ============================================================
 
 # Aim:

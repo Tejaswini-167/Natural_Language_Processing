@@ -1,0 +1,12 @@
+Rule-Based Tagging:
+
+[('playing', 'VBG'), ('dogs', 'NNS'), ('walked', 'VBD')]
+
+Default Tagger Accuracy: 0.14331966328512843
+
+HMM Tagging:
+
+O[i, k] = self._output_logprob(si, self._symbols[k])
+[('The', 'DT'), ('dog', 'NNP'), ('runs', 'NNP')]
+
+HMM Accuracy: 0.36844377293330455
