@@ -1,0 +1,5 @@
+Original Sentence:
+The physician administered medication to alleviate symptoms
+
+Simplified Sentence:
+The doctor administer medicine to relieve symptom
