@@ -1,0 +1,14 @@
+Polarity: -0.15 Sentiment: Negative
+
+I would not recommend this film
+Polarity: 0.0 Sentiment: Neutral
+
+The acting was excellent
+Polarity: 0.5 Sentiment: Positive
+
+Named Entities:
+Elon Musk -> PERSON
+Tesla -> ORG
+SpaceX -> PERSON
+the United States -> GPE
+Entity Count: {'PERSON': 2, 'ORG': 1, 'GPE': 1}
