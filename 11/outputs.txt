@@ -1,3 +1,11 @@
+Top Candidates:
+talented -> 0.23
+gifted -> 0.18
+good -> 0.04
+intelligent -> 0.031
+passionate -> 0.018
+
+
 Original Sentence: She is a very talented student.
 Substitute Sentence: She is a very intelligent student.
 Similarity: 0.8478063344955444
